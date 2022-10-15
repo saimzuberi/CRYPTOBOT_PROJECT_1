@@ -19,12 +19,12 @@ The implementaion of the analysis allowed for implemenation of buy and hold stra
 ![alt text](/Documentation/Screenshot%202022-10-15%20at%201.14.04%20AM.png "MEME STOCK RESULTS")
  
     COIN STOCK RESULTS - USD 235,581.00
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.10.26%20AM.png "COIN STOCK RESULTS")
 
-![PORTFOLIO RESULTS - COIN](/Documentation/Screenshot 2022-10-15 at 1.10.26 AM.png)
 
     BLOCKCHAIN STOCK RESULTS - USD 151779.00
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.12.59%20AM.png "CHAIN STOCK RESULTS")
 
-![PORTFOLIO RESULTS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.12.59 AM.png)
 
 ---
 
@@ -32,17 +32,26 @@ The implementaion of the analysis allowed for implemenation of buy and hold stra
 
 Using MONTY CARLOS simulation, the following are the results of the possible risk analysis portfolios 
 
-### MEME CRYPTOS  
-![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.07.42 AM.png)
-![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.08.50 AM.png)
+### MEME CRYPTOS 
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.07.42%20AM.png " ")
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.08.50%20AM.png " ")
+
 
 ### COIN CRYPTOS 
-![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.05.15 AM.png)
-![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.06.38 AM.png)
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.05.15%20AM.png " ")
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.06.38%20AM.png " ")
+
 
 ### BLOCKCHAIN CRYPTOS 
-![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 12.58.26 AM.png)
-![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.02.21 AM.png)
+
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%2012.58.26%20AM.png " ")
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.02.21%20AM.png " ")
+
 
 ---
 
@@ -50,11 +59,14 @@ Using MONTY CARLOS simulation, the following are the results of the possible ris
 
 We using the TALIB to do the analysis of 297 crypto currencies and identified the candle stick patterns dertining the bear or bullish patterns in the symbols. 
 
-![CRYTO CANDLESTICK PATTERN](/Documentation/Screenshot 2022-10-15 at 1.15.35 AM.png)
+
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.15.35%20AM.png " ")
+
 
 Our analysis communicated the currency wise bear or bullish patterns over the last 2 years. 
 
-![CRYTO CANDLESTICK MAPPING](/Documentation/Screenshot 2022-10-15 at 1.19.06 AM.png)
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.19.06%20AM.png " ")
+
 
 ---
 
