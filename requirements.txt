@@ -1,19 +1,17 @@
 tqdm 
 hvplot
-seaborn as sns
-pandas as pd
-numpy as np
+seaborn 
+pandas 
+numpy 
 matplotlib.pyplot as plt
-yfinance as yf
-os
+yfinance 
 json
-talib as talib
-plotly.offline 
-plotly.graph_objs as go
-import sys
+talib 
+plotly 
+plotly
 datetime
 time
-dotenv import load_dotenv
-requests.adapters import HTTPAdapter
-urllib3.util.retry import Retry
-polygon import RESTClient
+dotenv
+requests
+urllib3
+polygon
