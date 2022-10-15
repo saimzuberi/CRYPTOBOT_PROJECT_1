@@ -1,5 +1,4 @@
-# Project_Module_1
-CryptoBOT Analytics Buy &amp; Sell Triggers
+# CryptoBOT Analytics Buy &amp; Sell Triggers
 
 ## INITIAL SETUP
 > Run: `pip install -r requirements.txt` from the `blockchainbot/` folder
