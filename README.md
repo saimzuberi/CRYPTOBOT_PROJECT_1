@@ -1,4 +1,11 @@
 # CryptoBOT Analytics Buy &amp; Sell Triggers
+## GROUP MEMBERS
+### 1. Shane  (Project lead/ Developer) 
+### 2. Albert (Developer)
+### 3. Charlotte (Developer)
+### 4. Micheal (Developer)
+### 5. Saim (Developer)
+
 
 ## INITIAL SETUP
 > Run: `pip install -r requirements.txt` from the `blockchainbot/` folder
