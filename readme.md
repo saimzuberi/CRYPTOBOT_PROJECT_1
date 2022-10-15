@@ -74,13 +74,10 @@ Our analysis communicated the currency wise bear or bullish patterns over the la
 
 Using the determinant from the CANDLE STICK patterns and MONTY CAROLS, we selected BTC to implement the TALIB to implement 200 DAY SMA to implement buy and sell strategy. The result of the strategy is as below. 
 
-![BUY & SELL ORDERS](/Documentation/Screenshot 2022-10-15 at 1.25.14 AM.png)
-
-![PRICE SMA & RSI ](/Documentation/Screenshot 2022-10-15 at 1.26.59 AM.png)
-
-![Bollinger bans ](/Documentation/Screenshot 2022-10-15 at 1.28.17 AM.png)
-
-![CANDLESTICK DISPLAY OF BTC](/Documentation/Screenshot 2022-10-15 at 1.38.54 AM.png)
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.25.14%20AM.png " ")
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.26.59%20AM.png " ")
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.28.17%20AM.png " ")
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.38.54%20AM.png " ")
 
 ---
 
@@ -125,8 +122,8 @@ ___
 # CODE ARCHITECHTURE
 
 ## DATA ARCHITECHTURE 
+![alt text](/Documentation/DataStructure.drawio.png "")
 
-![DATA ARCHITECTURE](/Documentation/DataStructure.drawio.png)
 
 ## CODE FOLDERS 
 
