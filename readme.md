@@ -17,15 +17,15 @@ The implementaion of the analysis allowed for implemenation of buy and hold stra
 
     MEME STOCK RESULTS - USD 58447.00
 
-![PORTFOLIO RESULTS - MEME](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.14.04 AM.png)
+![PORTFOLIO RESULTS - MEME](/Documentation/Screenshot 2022-10-15 at 1.14.04 AM.png)
     
     COIN STOCK RESULTS - USD 235,581.00
 
-![PORTFOLIO RESULTS - COIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.10.26 AM.png)
+![PORTFOLIO RESULTS - COIN](/Documentation/Screenshot 2022-10-15 at 1.10.26 AM.png)
 
     BLOCKCHAIN STOCK RESULTS - USD 151779.00
 
-![PORTFOLIO RESULTS - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.12.59 AM.png)
+![PORTFOLIO RESULTS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.12.59 AM.png)
 
 ---
 
@@ -34,16 +34,16 @@ The implementaion of the analysis allowed for implemenation of buy and hold stra
 Using MONTY CARLOS simulation, the following are the results of the possible risk analysis portfolios 
 
 ### MEME CRYPTOS  
-![MONTYCARLOS - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.07.42 AM.png)
-![CORELATION - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.08.50 AM.png)
+![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.07.42 AM.png)
+![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.08.50 AM.png)
 
 ### COIN CRYPTOS 
-![MONTYCARLOS - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.05.15 AM.png)
-![CORELATION - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.06.38 AM.png)
+![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.05.15 AM.png)
+![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.06.38 AM.png)
 
 ### BLOCKCHAIN CRYPTOS 
-![MONTYCARLOS - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 12.58.26 AM.png)
-![CORELATION - BLOCKCHAIN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.02.21 AM.png)
+![MONTYCARLOS - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 12.58.26 AM.png)
+![CORELATION - BLOCKCHAIN](/Documentation/Screenshot 2022-10-15 at 1.02.21 AM.png)
 
 ---
 
@@ -51,11 +51,11 @@ Using MONTY CARLOS simulation, the following are the results of the possible ris
 
 We using the TALIB to do the analysis of 297 crypto currencies and identified the candle stick patterns dertining the bear or bullish patterns in the symbols. 
 
-![CRYTO CANDLESTICK PATTERN](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.15.35 AM.png)
+![CRYTO CANDLESTICK PATTERN](/Documentation/Screenshot 2022-10-15 at 1.15.35 AM.png)
 
 Our analysis communicated the currency wise bear or bullish patterns over the last 2 years. 
 
-![CRYTO CANDLESTICK MAPPING](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.19.06 AM.png)
+![CRYTO CANDLESTICK MAPPING](/Documentation/Screenshot 2022-10-15 at 1.19.06 AM.png)
 
 ---
 
@@ -63,13 +63,13 @@ Our analysis communicated the currency wise bear or bullish patterns over the la
 
 Using the determinant from the CANDLE STICK patterns and MONTY CAROLS, we selected BTC to implement the TALIB to implement 200 DAY SMA to implement buy and sell strategy. The result of the strategy is as below. 
 
-![BUY & SELL ORDERS](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.25.14 AM.png)
+![BUY & SELL ORDERS](/Documentation/Screenshot 2022-10-15 at 1.25.14 AM.png)
 
-![PRICE SMA & RSI ](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.26.59 AM.png)
+![PRICE SMA & RSI ](/Documentation/Screenshot 2022-10-15 at 1.26.59 AM.png)
 
-![Bollinger bans ](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.28.17 AM.png)
+![Bollinger bans ](/Documentation/Screenshot 2022-10-15 at 1.28.17 AM.png)
 
-![CANDLESTICK DISPLAY OF BTC](blockchainbot/Documentation/Screenshot 2022-10-15 at 1.38.54 AM.png)
+![CANDLESTICK DISPLAY OF BTC](/Documentation/Screenshot 2022-10-15 at 1.38.54 AM.png)
 
 ---
 
@@ -115,7 +115,7 @@ ___
 
 ## DATA ARCHITECHTURE 
 
-![DATA ARCHITECTURE](blockchainbot/Documentation/DataStructure.drawio.png)
+![DATA ARCHITECTURE](/Documentation/DataStructure.drawio.png)
 
 ## CODE FOLDERS 
 
