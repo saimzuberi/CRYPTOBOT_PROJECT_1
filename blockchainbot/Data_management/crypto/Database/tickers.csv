@@ -1,0 +1,379 @@
+,ticker,name,market,active
+0,1INCHUSD,1inch,crypto,True
+1,AAVEUSD,Aave,crypto,True
+2,ACATUSD,Alphacat,crypto,True
+3,ACHUSD,Alchemy Pay,crypto,True
+4,ACTUSD,Achain,crypto,True
+5,ADAUSD,Cardano,crypto,True
+6,AEUSD,Aeternity,crypto,True
+7,AIDUSD,AidCoin,crypto,True
+8,AIOUSD,All In One Coins,crypto,True
+9,ALBTUSD,AllianceBlock,crypto,True
+10,ALCXUSD,Alchemix,crypto,True
+11,ALGOUSD,Algorand,crypto,True
+12,AMMUSD,MicroMoney,crypto,True
+13,AMPUSD,Amp,crypto,True
+14,ANKRUSD,Ankr,crypto,True
+15,ANTUSD,Aragon,crypto,True
+16,APEUSD,ApeCoin,crypto,True
+17,API3USD,API3,crypto,True
+18,ARDRUSD,Ardor,crypto,True
+19,ARPAUSD,ARPA Chain,crypto,True
+20,ASMUSD,Assemble Protocol,crypto,True
+21,ATMUSD,Bitcoin ATM,crypto,True
+22,ATOMUSD,Cosmos,crypto,True
+23,AUCTIONUSD,Bounce Token,crypto,True
+24,AUCUSD,Auctus,crypto,True
+25,AVAXUSD,Avalanche,crypto,True
+26,AVTUSD,Aventus,crypto,True
+27,AXSUSD,Axie Infinity,crypto,True
+28,B2XUSD,SegWit2x,crypto,True
+29,BABUSD,Babel,crypto,True
+30,BADGERUSD,Badger Dao,crypto,True
+31,BALUSD,Balancer,crypto,True
+32,BANCAUSD,Banca,crypto,True
+33,BANDUSD,Band Protocol,crypto,True
+34,BATUSD,Basic Attention Token,crypto,True
+35,BBNUSD,Banyan Network,crypto,True
+36,BCDUSD,Bitcoin Diamond,crypto,True
+37,BCHABCUSD,Bitcoin Cash ABC,crypto,True
+41,BCHSVUSD,Bitcoin SV,crypto,True
+42,BCHUSD,Bitcoin Cash,crypto,True
+43,BCIUSD,Bitcoin Interest,crypto,True
+44,BCNUSD,Bytecoin,crypto,True
+45,BERRYUSD,Rentberr,crypto,True
+46,BFTUSD,BnkToTheFuture,crypto,True
+47,BITSUSD,Bitstar,crypto,True
+48,BIXUSD,Bibox Token,crypto,True
+49,BMCUSD,Blackmoon,crypto,True
+50,BNBUSD,Binance Coin,crypto,True
+51,BNKUSD,Bankera,crypto,True
+52,BNTUSD,Bancor,crypto,True
+53,BOBAUSD,Boba Network,crypto,True
+54,BONDUSD,BarnBridge,crypto,True
+55,BOSONUSD,Boson Protocol,crypto,True
+56,BQXUSD,Ethos,crypto,True
+57,BSVUSD,Bitcoin SV,crypto,True
+63,BTCPUSD,Bitcoin Private,crypto,True
+64,BTCUSD,Bitcoin,crypto,True
+65,BTGUSD,Bitcoin Gold,crypto,True
+66,BTMUSD,Bytom,crypto,True
+67,BTRSTUSD,Braintrust,crypto,True
+68,BTSEUSD,BTSE,crypto,True
+69,BTSUSD,BitShares,crypto,True
+70,BTTUSD,BitTorrent,crypto,True
+71,BTXUSD,Bitcore,crypto,True
+72,CCLUSD,Cyclean,crypto,True
+73,CDCCUSD,CDCC,crypto,True
+74,CELUSD,Celsius,crypto,True
+75,CGLDUSD,Celo,crypto,True
+76,CHSBUSD,SwissBorg,crypto,True
+77,CHZUSD,Chiliz,crypto,True
+78,CLOUSD,Callisto,crypto,True
+79,CLVUSD,Clover Finance,crypto,True
+80,CMCTUSD,Crowd Machine,crypto,True
+81,CMTUSD,CyberMiles,crypto,True
+82,CNDUSD,Cindicator,crypto,True
+83,CNNUSD,CNN Crypto,crypto,True
+84,COMPUSD,Compound,crypto,True
+85,COTIUSD,Coti,crypto,True
+86,COVALUSD,Circuits of Value,crypto,True
+87,CROUSD,Crypto.com,crypto,True
+88,CRPTUSD,Crypterium,crypto,True
+89,CRVUSD,Curve DAO Token,crypto,True
+90,CSMUSD,Consentium,crypto,True
+91,CTKUSD,CertiK,crypto,True
+92,CTSIUSD,Cartesi,crypto,True
+93,CTXCUSD,CarTaxi Token,crypto,True
+94,CVCUSD,Civic,crypto,True
+95,CVHUSD,Curriculum Vitae,crypto,True
+96,DADIUSD,DADI,crypto,True
+97,DAIUSD,Dai,crypto,True
+98,DASHUSD,Dash,crypto,True
+99,DATAUSD,DATA,crypto,True
+0,DATUSD,Datum,crypto,True
+1,DBETUSD,DecentBet,crypto,True
+2,DCNUSD,Dentacoin,crypto,True
+3,DCRUSD,Decred,crypto,True
+4,DDXUSD,DerivaDAO,crypto,True
+5,DGBUSD,DigiByte,crypto,True
+6,DGTXUSD,Digitex,crypto,True
+7,DGXUSD,Digix Gold Token,crypto,True
+8,DIMUSD,DIMCOIN,crypto,True
+9,DNYUSD,District0x,crypto,True
+10,DOGEUSD,Dogecoin,crypto,True
+11,DORUSD,Dorado,crypto,True
+12,DOTUSD,Polkadot,crypto,True
+13,DRNUSD,Digital Reserve Network,crypto,True
+14,DSHUSD,Dash,crypto,True
+15,DTAUSD,Data,crypto,True
+16,DTHUSD,Dether,crypto,True
+17,DUSKUSD,Dusk Network,crypto,True
+18,DVFUSD,DeversiFi,crypto,True
+19,DWSUSD,DWS,crypto,True
+20,EDGUSD,Edgeless,crypto,True
+21,EDOUSD,Eidoo,crypto,True
+22,EGLDUSD,Elrond,crypto,True
+23,EJOYUSD,Ether Joy,crypto,True
+24,ELAUSD,Elastos,crypto,True
+25,ELECUSD,Electrify.Asia,crypto,True
+26,ELFUSD,Aelf,crypto,True
+27,ENJUSD,Enjin Coin,crypto,True
+28,EOSUSD,EOS,crypto,True
+29,ESSUSD,Essentia,crypto,True
+31,ETCUSD,Ethereum Classic,crypto,True
+34,ETHUSD,Ethereum,crypto,True
+35,ETNUSD,Electroneum,crypto,True
+36,ETPUSD,Metaverse,crypto,True
+37,EURSUSD,STASIS EURS,crypto,True
+38,EVXUSD,Everex,crypto,True
+39,FARMUSD,Harvest Finance,crypto,True
+40,FCLUSD,Fractal,crypto,True
+41,FETUSD,Fetch.ai,crypto,True
+42,FILUSD,Filecoin,crypto,True
+43,FLOWUSD,Flow,crypto,True
+44,FORTHUSD,Ampleforth Governance Token,crypto,True
+45,FOXUSD,Shapeshift FOX Token,crypto,True
+46,FSNUSD,Fusion,crypto,True
+47,FTMUSD,Fantom,crypto,True
+48,FTTUSD,FTX Token,crypto,True
+49,FUELUSD,Etherparty,crypto,True
+50,FUNUSD,FunFair,crypto,True
+51,FXUSD,Function X,crypto,True
+52,GALAUSD,Gala Games,crypto,True
+53,GBXUSD,GoByte,crypto,True
+54,GLMUSD,Golem,crypto,True
+55,GNOUSD,Gnosis,crypto,True
+56,GNTUSD,Golem,crypto,True
+57,GOTUSD,Got,crypto,True
+58,GRTUSD,The Graph,crypto,True
+59,GTCUSD,Gitcoin,crypto,True
+60,GUSDUSD,Gemini Dollar,crypto,True
+61,GXCUSD,Gx Coin,crypto,True
+62,GYENUSD,GYEN,crypto,True
+63,HANDUSD,ShowHand,crypto,True
+64,HB10USD,Huobi HB10 Index,crypto,True
+65,HBARUSD,Hedera,crypto,True
+66,HCUSD,HyperCash,crypto,True
+67,HEZUSD,Hermez Network,crypto,True
+68,HITUSD,Hit,crypto,True
+69,HMTUSD,Human,crypto,True
+70,HOTUSD,Holo,crypto,True
+71,HPTUSD,Huobi Pool Token,crypto,True
+72,HTMLUSD,HTML Coin,crypto,True
+73,HTUSD,Huobi Token,crypto,True
+74,ICEUSD,Popsicle Finance,crypto,True
+75,ICPUSD,Internet Computer,crypto,True
+76,ICXUSD,Icon,crypto,True
+77,IMXUSD,Immutable X,crypto,True
+78,INJUSD,Injective,crypto,True
+79,INKUSD,Ink,crypto,True
+80,INTUSD,Internet Node Token,crypto,True
+81,IOSTUSD,IOST,crypto,True
+82,IOSUSD,IOS,crypto,True
+83,IOTAUSD,IOTA,crypto,True
+84,IOTUSD,IOTA,crypto,True
+85,IOTXUSD,IoTeX,crypto,True
+86,IPLUSD,InsurePal,crypto,True
+87,IQXUSD,IQ Token,crypto,True
+88,ITCUSD,InformationCoin,crypto,True
+89,JASMYUSD,JasmyCoin,crypto,True
+90,JSTUSD,JUST,crypto,True
+91,KAVAUSD,Kava,crypto,True
+92,KEEPUSD,Keep Network,crypto,True
+93,KNCUSD,Kyber Network,crypto,True
+94,KRLUSD,Kryll,crypto,True
+95,KRMUSD,Karma,crypto,True
+96,KSMUSD,Kusama,crypto,True
+97,LCXUSD,LCX,crypto,True
+98,LETUSD,LET,crypto,True
+99,LINKUSD,Chainlink,crypto,True
+0,LOCUSD,LockTrip,crypto,True
+1,LOOMUSD,Loom,crypto,True
+2,LPTUSD,Livepeer,crypto,True
+3,LRCUSD,Loopring,crypto,True
+4,LSKUSD,Lisk,crypto,True
+9,LTCUSD,Litecoin,crypto,True
+10,LUCUSD,Level Up Coin,crypto,True
+11,LUNAUSD,Terra,crypto,True
+12,LYMUSD,Lympo,crypto,True
+13,MAIDUSD,MaidSafe,crypto,True
+14,MANAUSD,Decentraland,crypto,True
+15,MANUSD,Crypto-Man,crypto,True
+16,MASKUSD,Mask Network,crypto,True
+17,MATICUSD,Polygon,crypto,True
+18,MCOUSD,Crypto.com,crypto,True
+19,MDSUSD,MediShares,crypto,True
+20,MESSEUSD,MESSE TOKEN,crypto,True
+21,MGOUSD,MobileGo,crypto,True
+22,MIRUSD,Mirror Protocol,crypto,True
+23,MITHUSD,Mithril,crypto,True
+24,MITUSD,MIT Digital Currency Initiative,crypto,True
+25,MKRUSD,Maker,crypto,True
+26,MLNUSD,Melon,crypto,True
+27,MNAUSD,Decentraland,crypto,True
+28,MNXUSD,MinexCoin,crypto,True
+29,MOBUSD,MobileCoin,crypto,True
+30,MORPHUSD,Morpheus,crypto,True
+31,MRSUSD,Marginless,crypto,True
+32,MTNUSD,Medicalchain,crypto,True
+33,MUSDUSD,mStable USD,crypto,True
+34,NANOUSD,Nano,crypto,True
+35,NASUSD,Nebulas,crypto,True
+36,NCAUSD,Nucleus Vision,crypto,True
+37,NCTUSD,PolySwarm,crypto,True
+38,NEARUSD,NEAR Protocol,crypto,True
+39,NEOUSD,Neo,crypto,True
+40,NEXOUSD,Nexo,crypto,True
+41,NGCUSD,NAGA,crypto,True
+42,NIOUSD,Autonio,crypto,True
+43,NKNUSD,NKN,crypto,True
+44,NMRUSD,Numeraire,crypto,True
+45,NOAHUSD,Noah Coin,crypto,True
+46,NTKUSD,Neurotoken,crypto,True
+47,NULSUSD,Nuls,crypto,True
+48,NUUSD,NuCypher,crypto,True
+49,NXTUSD,NXT,crypto,True
+50,OAXUSD,OAX,crypto,True
+51,OCEANUSD,Ocean Protocol,crypto,True
+52,OCNUSD,Odyssey,crypto,True
+53,ODEUSD,ODEM,crypto,True
+54,OGNUSD,Origin Protocol,crypto,True
+55,OMGUSD,OmiseGO,crypto,True
+56,ONLUSD,On.Live,crypto,True
+57,ONTUSD,Ontology,crypto,True
+58,ORNUSD,Orion Protocol,crypto,True
+59,OXTUSD,Orchid,crypto,True
+60,OXYUSD,Oxygen,crypto,True
+61,PAIUSD,Project PAI,crypto,True
+62,PASUSD,Pascal,crypto,True
+63,PATUSD,Patron,crypto,True
+64,PAXGUSD,PAX Gold,crypto,True
+65,PAXUSD,Paxos Standard Token,crypto,True
+66,PERPUSD,Perpetual Protocol,crypto,True
+67,PETHUSD,Dai,crypto,True
+68,PLANETSUSD,PlanetWatch,crypto,True
+69,PLAUSD,PlayDapp,crypto,True
+70,PMAUSD,PumaPay,crypto,True
+71,PNKUSD,Kleros,crypto,True
+72,POAUSD,POA Network,crypto,True
+73,POLYUSD,Polymath,crypto,True
+74,PPCUSD,Peercoin,crypto,True
+75,QNTUSD,Quant,crypto,True
+76,QNTUUSD,Quanta Utility Token,crypto,True
+77,QRDOUSD,Qredo,crypto,True
+78,QSHUSD,QASH,crypto,True
+79,QTFUSD,Quantfury Token,crypto,True
+80,QTMUSD,Quantreum,crypto,True
+81,QTUMUSD,Quantum,crypto,True
+82,QUICKUSD,QuickSwap,crypto,True
+83,RAIUSD,Rai Reflex Index,crypto,True
+84,RARIUSD,Rarible,crypto,True
+85,REEFUSD,Reef,crypto,True
+86,RENUSD,Ren,crypto,True
+87,REPUSD,Augur,crypto,True
+88,REQUSD,Request,crypto,True
+89,RIFUSD,RIF Token,crypto,True
+90,RLCUSD,iExec,crypto,True
+91,RLYUSD,Rally,crypto,True
+92,RNDRUSD,Render Token,crypto,True
+93,ROSEUSD,Oasis Network,crypto,True
+94,RUFFUSD,Ruff,crypto,True
+95,SANDUSD,The Sandbox,crypto,True
+96,SANUSD,Santiment Network Token,crypto,True
+97,SCUSD,Siacoin,crypto,True
+98,SEEUSD,See,crypto,True
+99,SENTUSD,Sentinel,crypto,True
+0,SENUSD,Consensus,crypto,True
+1,SHIBUSD,Shiba Inu,crypto,True
+2,SKLUSD,SKALE Network,crypto,True
+3,SMARTUSD,SmartCash,crypto,True
+4,SMTUSD,SmartMesh,crypto,True
+5,SNCUSD,SunContract,crypto,True
+6,SNTUSD,Status,crypto,True
+7,SNXUSD,Synthetix,crypto,True
+8,SOCUSD,All Sports,crypto,True
+9,SOLUSD,Solana,crypto,True
+10,SPELLUSD,Spell Token,crypto,True
+11,SPFUSD,SportyCo,crypto,True
+12,SRMUSD,Serum,crypto,True
+13,SRNUSD,SIRIN LABS Token,crypto,True
+14,STEEMUSD,Steem,crypto,True
+15,STORJUSD,Storj,crypto,True
+16,STQUSD,Storiqa,crypto,True
+17,STRATUSD,Stratis,crypto,True
+18,STRUSD,StarCoin,crypto,True
+19,STUUSD,Student Coin,crypto,True
+20,STXUSD,Stox,crypto,True
+21,SUBUSD,Substratum,crypto,True
+22,SUKUUSD,SUKU,crypto,True
+23,SURUSD,Suretly,crypto,True
+24,SUSHIUSD,Sushi,crypto,True
+25,SWFTCUSD,SwiftCoin,crypto,True
+26,TDSUSD,TokenDesk,crypto,True
+27,THETAUSD,Theta Token,crypto,True
+28,TIVUSD,TrakInvest,crypto,True
+29,TKAUSD,Tokia,crypto,True
+30,TKNUSD,TokenCard,crypto,True
+31,TLOSUSD,Telos,crypto,True
+32,TNBUSD,Time New Bank,crypto,True
+33,TNTUSD,Tierion,crypto,True
+34,TRACUSD,OriginTrail,crypto,True
+35,TRBUSD,Tellor,crypto,True
+36,TRIBEUSD,Tribe,crypto,True
+37,TRUUSD,TrueFi,crypto,True
+38,TRXUSD,TRON,crypto,True
+39,TSDUSD,TrueUSD,crypto,True
+40,TUSDUSD,TrueUSD,crypto,True
+41,UDCUSD,Universal Digital Coin,crypto,True
+42,UMAUSD,UMA,crypto,True
+43,UNIUSD,Uniswap,crypto,True
+44,UOSUSD,Ultra,crypto,True
+45,USDCUSD,USD Coin,crypto,True
+46,USDTUSD,Tether,crypto,True
+47,USTUSD,TerraUST,crypto,True
+48,UTKUSD,UTrust,crypto,True
+49,UTTUSD,United Traders Token,crypto,True
+50,VEEUSD,BLOCKv,crypto,True
+51,VELOUSD,Velo,crypto,True
+52,VETUSD,VeChain,crypto,True
+53,VGXUSD,Voyager Token,crypto,True
+54,VIBUSD,Viberate,crypto,True
+55,VLDUSD,Vetri,crypto,True
+56,VOCOUSD,Provoco,crypto,True
+57,VSYUSD,VSY,crypto,True
+58,WAVESUSD,Waves,crypto,True
+59,WAXUSD,Wax,crypto,True
+60,WBTCUSD,Wrapped Bitcoin,crypto,True
+61,WICCUSD,WaykiChain,crypto,True
+62,WIKIUSD,Wiki,crypto,True
+63,WIZUSD,CrowdWiz,crypto,True
+64,WLOUSD,Pigzbe,crypto,True
+65,WLUNAUSD,Wrapped LUNA Token,crypto,True
+66,WPRUSD,WePower,crypto,True
+67,AUTUSD,Tether Gold,crypto,True
+68,DCUSD,XDC Network,crypto,True
+69,DNUSD,DigitalNote,crypto,True
+70,EMUSD,NEM,crypto,True
+71,XLMUSD,Stellar,crypto,True
+72,MOUSD,Monero Original,crypto,True
+73,MRUSD,Monero,crypto,True
+74,RAUSD,Ratecoin,crypto,True
+75,RDUSD,Radix,crypto,True
+78,XRPUSD,Ripple,crypto,True
+79,SNUSD,Stakenet,crypto,True
+80,TZUSD,Tezos,crypto,True
+81,UCUSD,Exchange Union,crypto,True
+82,VGUSD,Verge,crypto,True
+83,YOUSD,XYO,crypto,True
+84,YFIUSD,yearn.finance,crypto,True
+85,YGGUSD,YggDrash,crypto,True
+86,YYWUSD,YOYOW,crypto,True
+87,ZAPUSD,Zap,crypto,True
+88,ZCNUSD,0chain,crypto,True
+89,ZECUSD,Zcash,crypto,True
+90,ZENUSD,Horizen,crypto,True
+91,ZILUSD,Zilliqa,crypto,True
+92,ZMTUSD,Zipmex,crypto,True
+93,ZRXUSD,0x,crypto,True
+94,ZSCUSD,Zeusshield,crypto,True
