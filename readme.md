@@ -16,9 +16,8 @@ The implementaion of the analysis allowed for implemenation of buy and hold stra
     INITIAL INVESTMENT 100,000
 
     MEME STOCK RESULTS - USD 58447.00
-
-![PORTFOLIO RESULTS - MEME](/Documentation/Screenshot 2022-10-15 at 1.14.04 AM.png)
-    
+![alt text](/Documentation/Screenshot%202022-10-15%20at%201.14.04%20AM.png "MEME STOCK RESULTS")
+ 
     COIN STOCK RESULTS - USD 235,581.00
 
 ![PORTFOLIO RESULTS - COIN](/Documentation/Screenshot 2022-10-15 at 1.10.26 AM.png)
