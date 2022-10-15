@@ -1,9 +1,17 @@
-numpy
-pandas
-python-dotenv
-pytz
+tqdm 
+hvplot
+seaborn 
+pandas 
+numpy 
+matplotlib.pyplot as plt
+yfinance 
+json
+talib 
+plotly 
+plotly
+datetime
+time
+dotenv
 requests
 urllib3
-alpaca-trade-api
-polygon-api-client
-tqdm
+polygon
